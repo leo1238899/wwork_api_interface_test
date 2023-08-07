@@ -1,10 +1,10 @@
 # @Author : TongTong
 
-from api.base_api import BaseApi
-from api.wework import Wework
-from common.config import cf
-from common.get_log import log
-from common.mysql import sql
+from wwork_api_interface_test.api.base_api import BaseApi
+from wwork_api_interface_test.api.wework import Wework
+from wwork_api_interface_test.common.config import cf
+from wwork_api_interface_test.common.get_log import log
+from wwork_api_interface_test.common.mysql import sql
 
 
 class WCalendar(BaseApi):

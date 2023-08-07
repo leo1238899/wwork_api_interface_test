@@ -2,7 +2,7 @@
 
 import logging
 import os
-from common.config import cf
+from wwork_api_interface_test.common.config import cf
 import datetime
 
 

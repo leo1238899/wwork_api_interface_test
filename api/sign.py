@@ -1,6 +1,6 @@
 # @Author : TongTong
 
-from api.base_api import BaseApi
+from wwork_api_interface_test.api.base_api import BaseApi
 
 
 class Sign(BaseApi):

@@ -1,7 +1,7 @@
 # @Author : TongTong
 
 import pytest
-from api.department import Department
+from wwork_api_interface_test.api.department import Department
 
 # 新建部门api的类的对象
 depart = Department()

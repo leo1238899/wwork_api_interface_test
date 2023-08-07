@@ -1,9 +1,9 @@
 # @Author : TongTong
 
 import pytest
-from api.wework import Wework
-from api.meeting_room import MeetingRoom
-from common.config import cf
+from wwork_api_interface_test.api.wework import Wework
+from wwork_api_interface_test.api.meeting_room import MeetingRoom
+from wwork_api_interface_test.common.config import cf
 
 # 初始化会议室对象
 meeting = MeetingRoom()

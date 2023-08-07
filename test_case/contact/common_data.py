@@ -1,7 +1,7 @@
 # @Author : TongTong
 
-from api.wework import Wework
-from common.config import cf
+from wwork_api_interface_test.api.wework import Wework
+from wwork_api_interface_test.common.config import cf
 
 
 class Base:

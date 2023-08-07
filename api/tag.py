@@ -1,7 +1,7 @@
 # @Author : TongTong
 
-from api.base_api import BaseApi
-from api.wework import Wework
+from wwork_api_interface_test.api.base_api import BaseApi
+from wwork_api_interface_test.api.wework import Wework
 
 # 企业微信标签的api类
 class Tag(BaseApi):

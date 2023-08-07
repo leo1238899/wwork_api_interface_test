@@ -1,7 +1,7 @@
 # @Author : TongTong
 
 import pytest
-from api.tag import Tag
+from wwork_api_interface_test.api.tag import Tag
 
 class TestTag():
     """

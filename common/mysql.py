@@ -1,8 +1,8 @@
 # @Author : TongTong
 
 import pymysql
-from common.config import cf
-from common.get_log import log
+from wwork_api_interface_test.common.config import cf
+from wwork_api_interface_test.common.get_log import log
 
 
 class Mysql:

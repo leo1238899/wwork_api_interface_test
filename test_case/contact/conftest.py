@@ -1,8 +1,8 @@
 # @Author : TongTong
 
 import pytest
-from api.wework import Wework
-from common.config import cf
+from wwork_api_interface_test.api.wework import Wework
+from wwork_api_interface_test.common.config import cf
 
 # 获取到token值，给其他下层目录的测试用例使用，优化代码
 @pytest.fixture(scope="session")

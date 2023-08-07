@@ -2,8 +2,8 @@
 
 import os
 import allure
-from api.meeting_room import MeetingRoom
-from common.get_log import log
+from wwork_api_interface_test.api.meeting_room import MeetingRoom
+from wwork_api_interface_test.common.get_log import log
 
 
 class TestMeetingRoom():

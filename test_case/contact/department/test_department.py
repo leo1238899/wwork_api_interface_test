@@ -3,8 +3,8 @@
 import os
 import allure
 import pytest
-from api.department import Department
-from common.get_log import log
+from wwork_api_interface_test.api.department import Department
+from wwork_api_interface_test.common.get_log import log
 
 
 class TestDepartment():

@@ -1,8 +1,8 @@
 # @Author : TongTong
 
 import pytest
-from api.member import Member
-from api.wework import Wework
+from wwork_api_interface_test.api.member import Member
+from wwork_api_interface_test.api.wework import Wework
 
 # 获取token值和联系人对象，但token并没使用配置文件获取
 secret = "YC9RRMQcQqGNxapjoeiDIn84mCY7H-aJblz_X9X073U"

@@ -1,9 +1,9 @@
 # @Author : TongTong
 
 import os
-from api.base_api import BaseApi
-from common.config import cf
-from common.get_log import log
+from wwork_api_interface_test.api.base_api import BaseApi
+from wwork_api_interface_test.common.config import cf
+from wwork_api_interface_test.common.get_log import log
 
 
 # 没用的装饰器部分
